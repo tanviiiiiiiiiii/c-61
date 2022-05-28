@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#apps{
+    background-color: aqua;
+    font-size: large;
+}
+#games{
+    background-color: rosybrown;
+    font-size: large;
+}
+#chatbot{
+    background-color: violet;
+    font-size: large;
+}
